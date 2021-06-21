@@ -1,4 +1,4 @@
-/* Pawel Masluch, nr albumu 262955, projekt 1.7 */
+/* Pawel Masluch, projekt 1.7 */
 
 #include<stdio.h>
 #include<math.h>
