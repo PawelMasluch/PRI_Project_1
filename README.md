@@ -2,6 +2,6 @@
 
 Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
-Obliczanie wartości funkcji Bessela.
+Obliczanie wartości funkcji Bessela w języku C.
 
-Computing Bessel function values. 
+Computing Bessel function values in C programming language. 
